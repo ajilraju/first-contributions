@@ -1,6 +1,4 @@
-# Keyshell Git course
+# Your first contributions page
 
-+ Git basics
-+ Git merge
-+ Git stash
-+ Vishnu
+## Names
+Vishnu
