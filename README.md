@@ -1,4 +1,4 @@
-# Keyshell Git demo
+# Keyshell Git course
 
 + Git basics
 + Git merge
