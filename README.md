@@ -1,6 +1,5 @@
-# Keyshell Git course
+# Your first contributions page
 
-+ Git basics
-+ Git merge
-+ Git stash
-+ Athul Santhosh
+## Names
+Vishnu
+Athul Santhosh
