@@ -8,6 +8,7 @@
 * Athulkrishna V S
 * Prajwal Rai K
 * Chethan Kumar N
+* Anoop Muralidharan
 * Jibin Wilson
 * Vikas B N
 * Pradeep Nayak S
