@@ -21,4 +21,5 @@ This project is aims provide a way beginners make their first contribution. If y
 
 ### Your first contributions page
 
-### [View all contributors](Contributors.md)
+
+### * [View all contributors](Contributors.md)
