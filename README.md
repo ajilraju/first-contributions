@@ -20,3 +20,5 @@ This project is aims provide a way beginners make their first contribution. If y
 ### Submit your changes through `Pull Request`
 
 ### Your first contributions page
+
+### [View all contributors](Contributors.md)
