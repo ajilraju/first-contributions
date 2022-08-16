@@ -12,3 +12,5 @@
 * Vikas B N
 * Pradeep Nayak S
 * Devika KB
+
+*Vikas B N : https://github.com/vikasarikady/first-contributions
