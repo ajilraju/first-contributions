@@ -15,3 +15,4 @@
 * [Vikas B N](https://github.com/vikasarikady/first-contributions)
 * Nikhil RK
 * Naija Vijayan
+* Sumith vijayan
