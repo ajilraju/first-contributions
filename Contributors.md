@@ -1,6 +1,6 @@
 # Open-Source Contributors
 
-* Vishnu
+* Vishnu - (https://github.com/Beerus-cmd/first-contributions)
 * Athul Santhosh
 * Jomon Joseph
 * Jithin Jacob
@@ -32,3 +32,4 @@
 * Varun TM
 * Ravikrishnan P (https://github.com/rvkrishna94)
 * Priya K S
+* Akshay M K
