@@ -33,6 +33,7 @@
 * Ravikrishnan P (https://github.com/rvkrishna94)
 * Priya K S
 * Akshay M K
+* Anurag S
 * Bijal P Babu
 * Abin J Dani
 * Sreelal P Ravindran
